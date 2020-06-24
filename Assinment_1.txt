@@ -1,1 +1,6 @@
-
+Q2:  What are the difference between Git and Github?
+Ans:  Git is a tool which is used for version control.
+      It is installed locally on user's machine.
+      And gives command line to perform various operations required for version control.
+      While Github is a cloud based online server that stores the code pushed from local machine using Git tool (or any similar tool).
+      It is open source.  
