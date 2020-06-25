@@ -3,4 +3,12 @@ Ans:  Git is a tool which is used for version control.
       It is installed locally on user's machine.
       And gives command line to perform various operations required for version control.
       While Github is a cloud based online server that stores the code pushed from local machine using Git tool (or any similar tool).
-      It is open source.  
+      It is open source.
+
+
+Q3: What is Git workflow?
+Ans :   Git workflow is a recipe or recommendation for how to use Git in a
+        consistent and productive manner. Git workflow helps to manage the
+        code effectively and helps working in collaboration with other team
+        members. There is not a standard workflow, but
+        depending upon team and requirement the workflow should be established 
