@@ -11,4 +11,16 @@ Ans :   Git workflow is a recipe or recommendation for how to use Git in a
         consistent and productive manner. Git workflow helps to manage the
         code effectively and helps working in collaboration with other team
         members. There is not a standard workflow, but
-        depending upon team and requirement the workflow should be established 
+        depending upon team and requirement the workflow should be established
+
+Q4 : How many types of version control systems are there?
+Ans: There are two types of version control systems
+      1. Centralized :
+                      In this all the changes are made to one center project
+                      copy and you will commit all the changes to it. You will
+                      never have the full history of the project.
+      2. Distributed:
+                      In distributed version control system you can clone the
+                      full project/ repository to your local server and then you
+                      will have the full history of the project. You do not relay
+                      on a central server. 
